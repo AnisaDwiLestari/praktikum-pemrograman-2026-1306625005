@@ -16,7 +16,7 @@
 
 ## 3. Algorithm
 > 1. Mulai
-> 2. Cetak/Prinnt "Program Konversi Suhu"
+> 2. Cetak/Print "Program Konversi Suhu"
 > 3. Print "Nama: Anisa Dwi Lestari"
 > 4. Print "Nim: 1306625005"
 > 5. Input "Suhu Awal: ..."
