@@ -1,4 +1,4 @@
-# Modul [01] - [Konverssi Suhu]
+# Modul [01] - [Konversi Suhu]
 
 **Nama:** [Anisa Dwi Lestari]  
 **NIM:** [1306625005]  
@@ -10,7 +10,7 @@
 > Membuat sebuah program untuk menghitung konversi suhu Celcius-Reamur-Fahrenheit.
 
 ## 2. Mathematical Equation
-> $$R = \frac{4}{5}$$
+> $$R = \frac{4}{5}C$$
 > $$F = \frac{9}{5}C + 32$$
 > $$C = \frac{5}{9}(F - 32)$$
 
