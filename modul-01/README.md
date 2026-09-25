@@ -26,13 +26,19 @@
 > 10. Mengnisialisasi C = suhu awal
 > 11. Menginisialisasi No = 1
 > 12. Menggunakan while selama C ≤ suhu akhir:
+>     
 >     12.1. Menghitung:
+>     
 >           $$R = \frac{4}{5}C$$
 >           $$F = \frac{9}{5}C + 32$$
+>     
 >     12.2. Menampilkan hasil dalam bentuk tabel
+>     
 >     12.3. Menambahkan nilai:
+>     
 >           C = C + selang
+>     
 >           No = No + 1
-> 13. Print "=" sebanyak 71
-> 14. Selesai
+> 14. Print "=" sebanyak 71
 > 15. Selesai
+>     
