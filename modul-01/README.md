@@ -12,19 +12,27 @@
 ## 2. Mathematical Equation
 > $$R = \frac{4}{5}C$$
 > $$F = \frac{9}{5}C + 32$$
-> $$C = \frac{5}{9}(F - 32)$$
 
 ## 3. Algorithm
 > 1. Mulai
-> 2. Cetak/Print "Program Konversi Suhu"
+> 2. Cetak "Program Konversi Suhu"
 > 3. Print "Nama: Anisa Dwi Lestari"
 > 4. Print "Nim: 1306625005"
 > 5. Input "Suhu Awal: ..."
 > 6. Input "Suhu Akhir:..."
 > 7. Input "Selang:..."
 > 8. Print "TABEL KONVERSI"
-> 9. Print "TABEL...."
-> 10. Hitung Celcius ke Reamur : 4/5
-> 11. Hitung Celcius ke Fahrenheit:
-> 12. Print Hasil
-> 13. Selesai
+> 9. Print format header dengan kolom "No", "Celcius", "Reamur", "Fahrenheit"
+> 10. Mengnisialisasi C = suhu awal
+> 11. Menginisialisasi No = 1
+> 12. Menggunakan while selama C ≤ suhu akhir:
+>     12.1. Menghitung:
+>           $$R = \frac{4}{5}C$$
+>           $$F = \frac{9}{5}C + 32$$
+>     12.2. Menampilkan hasil dalam bentuk tabel
+>     12.3. Menambahkan nilai:
+>           C = C + selang
+>           No = No + 1
+> 13. Print "=" sebanyak 71
+> 14. Selesai
+> 15. Selesai
