@@ -28,9 +28,7 @@
 > 12. Menggunakan while selama C ≤ suhu akhir:
 >     
 >     12.1. Menghitung:
->     
 >           $$R = \frac{4}{5}C$$
->     
 >           $$F = \frac{9}{5}C + 32$$
 >     
 >     12.2. Menampilkan hasil dalam bentuk tabel
