@@ -1,8 +1,8 @@
-# Modul [02] - [Nama Topik Modul]
+# Modul [02] - [Mencari Faktor Bilangan]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Anisa Dwi Lestari]  
+**NIM:** [1306625005]  
+**Kelas:** [Fisika C]  
 
 ---
 
