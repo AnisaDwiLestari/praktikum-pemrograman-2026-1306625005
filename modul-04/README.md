@@ -1,14 +1,13 @@
-# Modul [04] - [Nama Topik Modul]
+# Modul [04] - [Grading]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Anisa Dwi Lestari]  
+**NIM:** [1306625005]  
+**Kelas:** [Fisika C]  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
-
+> 
 ## 2. Mathematical Equation
 > Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
 
